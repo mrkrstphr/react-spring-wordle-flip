@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-spring-wordle-flip/static/css/main.89ed84c6.css",
+    "main.js": "/react-spring-wordle-flip/static/js/main.fc06e024.js",
+    "index.html": "/react-spring-wordle-flip/index.html",
+    "main.89ed84c6.css.map": "/react-spring-wordle-flip/static/css/main.89ed84c6.css.map",
+    "main.fc06e024.js.map": "/react-spring-wordle-flip/static/js/main.fc06e024.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89ed84c6.css",
+    "static/js/main.fc06e024.js"
+  ]
+}
